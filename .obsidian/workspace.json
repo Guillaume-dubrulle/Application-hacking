@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d636def38d89fb4f",
+            "id": "827a97076b98327e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/h0.md",
+                "file": "Homework/h2 Break & Unbreak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "h0"
+              "title": "h2 Break & Unbreak"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"![[Pasted image 20260125031755.png]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +185,26 @@
   },
   "active": "e3240bb8abe380d7",
   "lastOpenFiles": [
-    "Homework/screenshot",
-    "Homework/screenshot/{D0C4D041-07AA-4047-B6F2-0A6813BCB60B}.png",
-    "Untitled.md",
+    "Homework/screenshot/H2/{4CA50139-7A51-420C-9F95-0F54136E1C71}.png",
+    "Homework/screenshot/H2/{7D6DCA86-F6BF-4FC8-A1C1-91763049B29D}.png",
+    "Homework/screenshot/H2/{8C36DC56-CA87-48FD-B6ED-8C2D4D6ABE70}.png",
+    "Homework/screenshot/H2/{BB0E8C6E-2168-4109-9B93-8FB7547DB765}.png",
+    "Homework/screenshot/H2/Pastedimage20260125190737.png",
+    "Homework/h2 Break & Unbreak.md",
+    "[[Pasted.md",
+    "Homework/screenshot/H2/Pastedimage20260125031436.png",
+    "screenshot/Pasted.md",
+    "screenshot",
+    "Homework/screenshot/H2/Pastedimage20260125191023.png",
+    "Homework/screenshot/H2/Pastedimage20260125190907.png",
+    "Homework/screenshot/H2/Pastedimage20260125174817.png",
+    "Homework/screenshot/H2/Pastedimage20260125174707.png",
+    "Homework/screenshot/H2/Pastedimage20260125034417.png",
+    "Homework/h1 Command and Concure.md",
+    "Homework/screenshot/H2",
+    "Homework/screenshot/H0",
     "Homework/h0.md",
+    "Homework/screenshot",
     "Homework",
     "test.c",
     "a.exe"
