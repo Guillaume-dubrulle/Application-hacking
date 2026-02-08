@@ -15,25 +15,26 @@ sudo apt-get install ghidra
 
 # b)
 
-![Pastedimage](Pastedimage20260208202620.png)
+
+![Pastedimage](screenshot/H4/Pastedimage20260208202620.png)
 i remember that this package is packed with upx so i unpacked
-![Pastedimage]({078F3EAC-E0CD-4C1B-823A-964E243C8E38}.png)
+![Pastedimage](screenshot/H4/{078F3EAC-E0CD-4C1B-823A-964E243C8E38}.png)
 now we can read the file and find the main
 i rename the variable so that we see more clearly what it does
-![Pastedimage]({9A0BA661-C7F4-49FC-98C3-B0FBDD55F53A}.png)
+![Pastedimage](screenshot/H4/{9A0BA661-C7F4-49FC-98C3-B0FBDD55F53A}.png)
 and with the same function we can see the password and the flag
 # c)
 
-![Pastedimage]({E0BA60E9-3898-491C-AA1F-DA3CCFDA14C2}.png)
+![Pastedimage](screenshot/H4/{E0BA60E9-3898-491C-AA1F-DA3CCFDA14C2}.png)
 
 the comparison is here
-![Pastedimage](Pastedimage20260208205523.png)
+![Pastedimage](screenshot/H4/Pastedimage20260208205523.png)
 
 we need to modified the JNZ (jump if no zero) into a JZ (jump if zero) so that instead of if the comparison is true it goes right when the comparison is wrong
 now we export the file and test it
 
 
-![Pastedimage]({004638A6-C873-48D8-9DD5-391809DF1D1B}.png)
+![Pastedimage](screenshot/H4/{004638A6-C873-48D8-9DD5-391809DF1D1B}.png)
 
 and it work
 
@@ -47,19 +48,19 @@ make
 # e)
 
 we found the main
-![Pastedimage](Pastedimage20260208211118.png)
+![Pastedimage](screenshot/H4/Pastedimage20260208211118.png)
 we can see the password in the comparison 
-![Pastedimage]({BFDE4EF7-49DF-4B51-96FE-8F61B3DDBFC4} 1.png)
+![Pastedimage](screenshot/H4/{BFDE4EF7-49DF-4B51-96FE-8F61B3DDBFC4} 1.png)
 
 # e)
 
 it seems to be approximately the same here 
-![Pastedimage](Pastedimage20260208212004.png)
+![Pastedimage](screenshot/H4/Pastedimage20260208212004.png)
 just the password is different that the only difference and the password is annoying because there is a '!' and in Linux it does something so we need to evade it with a '\\'
-![Pastedimage]({3534A535-2D66-45DD-82CF-A2E2DB8CE5F1}.png)
+![Pastedimage](screenshot/H4/{3534A535-2D66-45DD-82CF-A2E2DB8CE5F1}.png)
 # f)
 
 it's the same but with just  a modification of the password, it was modified by add number in the ascii table
 
 
-![Pastedimage](Pastedimage20260208213308.png)
+![Pastedimage](screenshot/H4/Pastedimage20260208213308.png)
