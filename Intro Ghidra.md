@@ -20,5 +20,3 @@ you get some C code so you get
 - adresses : &
 - function (here the number is the number of byte) : iVar3=CONCAT22(local1, local2)
 
-
-## 

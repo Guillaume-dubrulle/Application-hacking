@@ -50,8 +50,6 @@ make
 we found the main
 ![Pastedimage](screenshot/H4/Pastedimage20260208211118.png)
 we can see the password in the comparison 
-![Pastedimage](screenshot/H4/{BFDE4EF7-49DF-4B51-96FE-8F61B3DDBFC4} 1.png)
-
 # e)
 
 it seems to be approximately the same here 
